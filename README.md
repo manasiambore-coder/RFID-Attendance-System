@@ -111,3 +111,9 @@ This project provided hands-on experience in RFID interfacing, SPI and I2C commu
 
 **Manasi Ambore**  
 Electronics & Communication Engineering Student
+
+## 📸 Project Demonstration
+
+![RFID Hardware Setup](RFID_PROJECT_IMAGE.jpeg)
+
+
