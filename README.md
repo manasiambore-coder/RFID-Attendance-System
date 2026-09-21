@@ -119,4 +119,7 @@ Electronics & Communication Engineering Student
 ![RFID Demo](RFID_Demo1.png)
 ![RFID Demo](RFID_Demo2.png)
 
+## 🎥 Project Demo
+
+[▶️ Watch the RFID Attendance System Demo](RFID_Attendance_System_Demo_Manasi_Ambore.mp4)
 
